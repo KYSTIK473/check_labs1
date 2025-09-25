@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/la1_main.dir/main.cpp.o -o la1_main  libchangeLib.a 

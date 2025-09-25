@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchangeLib.a CMakeFiles/changeLib.dir/change.cpp.o
+/usr/bin/ranlib libchangeLib.a

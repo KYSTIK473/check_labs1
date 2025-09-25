@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/la1_tests.dir/test.cpp.o -o la1_tests  ../prog/libchangeLib.a ../lib/libgtest_main.a ../lib/libgtest.a 
